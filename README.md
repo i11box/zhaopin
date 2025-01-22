@@ -1,3 +1,4 @@
+是一个智联招聘网站的爬虫，可以爬取指定行业的所有职位的薪资、地点、工作要求和职位特点等信息
 # 启动步骤
 1. 安装`playwright`,`scrapy`，安装完`playwright`之后执行`playwright install`(大概是这个命令，具体的我也忘了可以g一下，这个playwright是模拟浏览器的，然后这样install一下是装个playwright的浏览器)
 
